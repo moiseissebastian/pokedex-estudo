@@ -31,6 +31,14 @@
     .cartao-pokemon .cartao-informacoes h3 {
         font-size: 16px;
     }
+    
+    .cartao-pokemon .cartao-informacoes .status ul li {
+        font-size: 11px;
+    }
+
+    .cartao-pokemon .cartao-informacoes .habilidades ul li {
+        font-size: 11px;
+    }
 
     .listagem {
         max-width: 300px;
